@@ -1,4 +1,4 @@
----
+---crab-docs/docs/crab-network/crab-home.md
 id: crab-home
 title: Crab Network
 sidebar_label: Crab Network
